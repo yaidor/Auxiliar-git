@@ -11,6 +11,7 @@ public abstract class AbstractContender {
   private final int evd;
   private int stars;
   private int variable;
+  private int bariable;
   private int win;
 
 
@@ -23,6 +24,7 @@ public abstract class AbstractContender {
     this.stars = 0;
     this.win = 0;
     this.variable=0;
+    this.bariable=1;
   }
 
   public String getName() {
