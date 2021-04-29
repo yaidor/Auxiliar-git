@@ -1,2 +1,4 @@
-package com.github.cc3002.citricjuice.model;public class ejemplo {
+package com.github.cc3002.citricjuice.model;
+
+public class ejemplo {
 }
