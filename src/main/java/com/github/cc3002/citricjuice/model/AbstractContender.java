@@ -12,6 +12,7 @@ public abstract class AbstractContender {
   private int stars;
   private int variable;
   private int win;
+  private int intento;
 
 
   public AbstractContender(final String name, int hp, final int atk, final int def, final int evd) {
